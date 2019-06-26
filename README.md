@@ -1,2 +1,3 @@
-# Welcome
-Bienvenue dans notre organisation - Welcome in our organisation
+# Welcome - Bienvenue
+
+[English](welcome.md) | [Français](bienvenue.md)
